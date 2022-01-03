@@ -1,10 +1,22 @@
 ### Olá! Seja bem vindo ao meu perfil!
+
+<br>
  
-Desenvolvedora de Software em aprimoramento <br>
-Full Stack Developer em evolução!
+ 
+📈 Desenvolvedora de Software em construção/evolução.
+
+<br>
 
 
-</div>
+
+<div align="left">
+  <a href="https://github.com/TaynaCosta83">
+ <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaynaCosta83&layout=compact&langs_count=7&theme=talgolia"/>
+ </div>
+ 
+ <br>
+ 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Tay-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
