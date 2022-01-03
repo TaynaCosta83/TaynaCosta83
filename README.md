@@ -1,7 +1,7 @@
 ### Olá! Seja bem vindo ao meu perfil!
  
--Desenvolvedora de Software em aprimoramento <br>
--Full Stack Developer em evolução
+Desenvolvedora de Software em aprimoramento <br>
+Full Stack Developer em evolução!
 
 
 </div>
